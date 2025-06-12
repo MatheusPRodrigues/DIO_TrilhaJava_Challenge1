@@ -25,4 +25,4 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 * Usuário: 1021 *(depois ENTER para o próximo campo)* 
 
 ## Output do código implementado
-![OutputForAplication](img\output.png)
+![OutputForAplication](img/output.png)
